@@ -1,0 +1,49 @@
+secret,Classified stuff
+agent,A person under the control of an intelligence agency or security service
+computer,Terminal for information
+handler,Controls a double agent
+drop,Package exchange
+gun,Weapon of choice
+acorn,Slang for a person who is performing an intelligence operation
+analysis,Drawing conclusions about raw information by assessing its significance and by collating it with other information
+assaulter,A member of a SWAT team responsible for making a forced entry
+asset,An agent
+carnivore,Computer program designed by the FBI to allow the FBI to collect electronic communications from a specific user targeted in an investigation
+commando,A civilian, military, or paramilitary combat group member using irregular tactics
+compromised,Breached security status
+consumer,a person or an organization on an intelligence agency's distribution list
+cooked,A mixture of genuine and fake material provided via a double agent to one's adversary
+counterespionage,Activities designed to impede the efforts of hostile intelligence agencies
+counterintelligence,activities designed to impede or thwart the effors of a hostile intelligence agencies
+cousins,Slang for CIA
+cover,Persona or image maintained by an indercover operative
+courier,Delivers documents, money, ect
+dangle,A spy who poses as a walk-in to penetrate the other side
+decoy,Distracts adversary's attention
+diversion,Distracts adversary's attention
+element,A five-man swat team
+enigma,Machine used by the germans to encode messages during WWII
+escort,The operations officer assigned to lead a defector along an escape route
+ghoul,Agent who searches abituaries and graveyards for names of the deceased for use by agents
+hostile,Term used to describe the organizations and activities of the opposition services
+illegal,An intelligence officer operating in a foreign nation without the protection of diplomatic immunity
+infiltration,Secret movement of an operative into a target area
+informant,A legitimate member of a target group providing intelligence to a surveillance team
+jarking,Bugging a weapons cache, often rendering weapons unusable
+joe,A deep-cover agent
+lady,Honey pot
+legend,The faked biography of a deep-cover agent
+letterbox,Aperson who is acting as a go-between
+mole,A penetration agent
+naked,A spy operating without cover or backup
+Neurolinguistics,A branch of psychology used by intelligence agencies and security services to covertly manipulate unsuspecting human targets
+nightcrawler,A talent spotter who rpowls bars and nightclubs looking for government employees, who can be compromised using booze, drugs, or sex
+ninjas,Slang for members of a SWAT team
+offsite,A covert FBI site or facility situated away from a field office
+paroles,Passwords to identify agents to each other
+pattern,The behavior and daily routine of an operative that makes his or her identity unique
+peep,Photographer
+pickup,When the target of a surveillance operation is first spotted inside the stakeout box
+product,Finished intelligence that has been evaluated by an intelligence agency and is ready for distribution to consumers
+ring,A network of spies or agents
+roscoe,Handgun
